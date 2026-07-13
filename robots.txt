@@ -1,0 +1,65 @@
+#            :.. . . . . .:           :... . . . . .                          ..   . . . ..iiriririrrriririririiii::....                              
+#             BBBBBBBBQBBBBB           7BBQBBBBBBBBBQB                        :BBBBBBBBBBBBBQBBBBBBBBBBBBBBBBBBBBBBBBBBBBBQBQBQBRKr.                   
+#             EBBBBBBQBBBBBg            BBBBBQBBBBBBBBB.                       BBQBBBQBQBQBZ                           :sDBBBBBBBQBQBR7                
+#             rBBBQBBBBBBBBv            BdRBQBBBBBBBBBBB.                      BBBBBQBBBBBBR                                7BBBQBBBQBBBQi             
+#             .BBBBBBQBBBBB.            Bi BBBBBBBBBBBBBBi                     5BBBBBQBBBBBM                                  .QBBBBBQBQBBBi           
+#              BBBBBBBBBQBB             BU  QBBBBBBBBBBBBB7                    vBBBBBBQBBBBQ                                    rBBBBBBBBBBBR          
+#              QBBBBBQBBBBB             B5   QBBBBBBBBBBBBBs                   iBBBBBQBBBBBM                                     .BBBBBQBBBBBQ         
+#              BBBBBBBQBBBB             BX    gBBBQBQBQBBBBB5                  :BBBBBBBBQBQQ                                      iBBBBBBBBBBBB        
+#              BBBBBBQBBBBB             B5     PBBBQBBBBBBBBBd                 :BBBBBBBBBBBM                                       QBBBBBBBBBBBQ       
+#              BBBBBBBBBQBB             QK      2BBBBBBBBBBBBBg                :QBBBQBBBBBBR                                       :BBBBBBQBBBBBi      
+#              QBBBBBBBBBBB             B5       LBBBBBBBBBBBBBB               :BBBBBBBQBBBM                                        BQBBBBBBBBBBB      
+#              BBBQBBBBBBBB             BX        rBBBBBBBBBQBBBB              :BBQBBBBBQBBR                                        BBBBQBBBBBBBB      
+#              BBBBBBBBBBBB             B5         :BQBQBBBBBBBBBQ             :BBBBBBBBBBBg                                        QBBBBBBBBBBQB      
+#              BQBBBBBBBBBB             BX          .BBBBBBBBBBBQBB.           :BBBBBBBBBBQR                                        QBQBBBBBQBBBB      
+#              QBBBBBBBBBQB             BS            BBBBBBBBBBBBBQ.          :BBBQBBBBBBBM                                        BBBBBBBBBBBBB      
+#              BQBBBBBBBBBB             QK             BBBQBBBQBBBQBBi         :BBBBQBQBBBBR                                        BBBBBBBBBBBBM      
+#              QBBBBBBBBBBB             BS              BBBBBBBQBBBBBBr        :BQBBBBBQBBBM                                       vBBBBBQBBBBBQ:      
+#              BBBBBBBQBBBB             QK               BBBBBBBBBQBBBBs       :BBBBBBBBBBBR                                       BBBBBBBBBQBBQ       
+#              BBBBBBBBBBBB             B5                RBBQBBBBBBBBBBS      :BBBQBBBBBQBM                                      BBBQBQBBBBBBB        
+#              BBBBBBBQBBBB             BK                 bQBBBBBBBBBBBBd     :QBBBBBQBBBBQ                                     QBBBBBBQBBBBQ         
+#              BBBBBBBBBBBB             B5                  5BBBBBBBBQBBBBM    :BBBQBBBBBBBM                                   :BQBBBBBBBQBBv          
+#              BBBBBBBBBBBB             BK                   YBBBBQBQBBBBBQB   :BBBBBBBBQBBQ                                 iQBBBBBQBBBBBj            
+#              BBQBBBBBQBBB             BS                    7QBBBBBBBBBBBBB  .BBBBBBBBBBBM                              .5BBBBBQBBBBBZi              
+#              BQBBBBBBBBBB             BK                     iBBBBBBQBBBBBBB  BBBBBBBBBBBR                           iPBBBBBQBBBBBu.                 
+#              BBBBBBQBBBBB             BS                      .BBBBBBBBBBBBBBiBBBBBQBBBBBM                       :XQBBBBBQBBQ5r                      
+#              BBBBBBBBBBBB             BX                       .BBQBBBBBQBQBBBBBBBBBBBBBBQ                   .2BBBBBBBEj:.                           
+#              BBBBBBBBBBQB             B5                         BBBBBBBBBBBBBBBBQBBBBBBBM                rBBBBQZ7.                                  
+#              BQBBBBBBBBBB             BX                          BBBBBBBBBBBBQBBBQBBBBBBR             :BBBBY.                                       
+#              BBBBBBBBBBQB             BS                           QBBBBBQBBBBBBBBBBBBBBBM           rBBQ.                                           
+#              BBBBBBBBBBBB             BX                            MBBBBBQBBBBBQBBBBBBBBQ          QB7                                              
+#              BBBBBBBBBBBB             B5                             dBBBBBQBBBBBBBBBBBBBM        .Q1                                                
+#              BQBBBBBBBBBB             Bq                              5BBBBBBBBBBBBBQBBBBQ        B.                                                 
+#              BBBBBBBBBBBB             Bg                               sBBBQBBBBBBBQBBBBBB       ..                                                  
+#              svv77r77v7Ys             5:                                :svL7v7L7v7L7v7LJ7                                                           
+#                                                                                                                                                      
+#              YE  .P:    vM        dZgQD2      :Qr      .PBQBK:  iZDQQBBi                                                                             
+#              BB  rBBP   BB        BB:i7QBJ    BQB:    QBB7r7BB  DBr.::r.        Zu    rB    Bi   IbvJ5r :q  .b. BvvLv.uvB5J:.q  B:   g  .KIJXs       
+#              BB  iBXBB  bB        B1    QB   BQ PB   ZB.        IB:..:.         QB7  iQB   Q.M.  Q:   B .Q uu   B       B.  :B  BPU  B .B.           
+#              QB  :B. QB.KB  QQBg  BB2KgBB:  QB.  BB  BB     1B  5BEPgMK         Q 27:P Q  BX iB  bK:rSs .BuBr   Brir.   B.  :Q .Q Jg Q Yd    5.      
+#              BB  rBr  LBBB  :ii:  BBrjL:   UQQgBggBZ .QB.   BB  KB              B. qg  B 2g.:.uB QU..B: :B  1M  B       B:  iB .B  .BB  Mu...B.      
+#              QB  iBr    BB        BP      :Bb     1Br  gBBBBBP  KBBBBBBS        i      : r     r :    v  :   :i 7r77L   i   .:  r    7   :vvv.       
+#                                                                                                                                                      
+#                                                                                                                                                      
+#              BBBBBBBBBBBB             BBB:                                   YBBQBBBBBBBBB                                                           
+#              BBBBBBBBBBBB.            BQBQ                                   1BBBBBQBBBBBB                                                           
+#             :BBBQBBBBBBBBi           :QBBB.                                  dQBBBBBBBBBBB                                                           
+#             sQBBBQBBBBBBBu           LBBBBB                                  BBBBQBBBBBBBB.                                                          
+#             BBBBBBBBBBBBBB           BBBBBBq                                 BBBBBBBBBBBBBI                                                          
+#             BBBBBBBBBBBQBB           BBQBBBB:                               iQBBBBBQBBBBBBB                                                          
+#
+# 2023 INPAGE, ALL RIGHTS RESERVED
+
+User-agent: Yeti
+Allow:/
+
+User-agent: Googlebot
+Allow:/
+
+User-agent: Daum
+Allow:/
+
+User-agent: Bingbot
+Allow:/
+
+Sitemap: https://www.in-page.co.kr/sitemap.xml
